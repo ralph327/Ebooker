@@ -31,7 +31,7 @@ type Ebooker struct {
 	tf     *TweetFetcher
 }
 
-const DEFAULT_USER = "SrPablo"
+const DEFAULT_USER = "exis10s"
 
 // Starts the service
 func main() {
