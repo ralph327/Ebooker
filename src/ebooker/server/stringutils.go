@@ -11,7 +11,7 @@ import (
 	"strings"
 )
 
-// Removes the reply-to field from the text of a tweet, e.g. "@exis10s forget
+// Removes the reply-to field from the text of a tweet, e.g. "@exis10s_ebooks forget
 // it!" -> "forget it!" Also removes "public directed tweets"; those tweets that
 // are effectively replies but designed to be seen publicly, such as ".@walmart
 // what happens when u die?"
